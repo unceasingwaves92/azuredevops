@@ -20,7 +20,7 @@
     <module>server</module>
     <module>webapp</module>
   </modules>
-  -- updated version1 --
+ 
 
   <distributionManagement>
     <site>
